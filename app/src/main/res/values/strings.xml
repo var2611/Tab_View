@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tab Example</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="close">Close</string>
+    <string name="enter_mobile_number_for_call">Enter Mobile Number for Call</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="dial_and_call">Dial and call</string>
+    <string name="share_it">Share-it</string>
+    <string name="wel_come">Wel-Come</string>
+</resources>
